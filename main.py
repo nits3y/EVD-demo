@@ -1,1 +1,3 @@
-print("hello world")
+from function import *
+
+print(greet("YESTIN"))
